@@ -1,3 +1,4 @@
 # Aether
 
-A knowledge hub utilizing RAG implementation of a foundational LLM model.
+Semantic Search Engine
+A knowledge hub utilizing RAG and foundational LLM models.
